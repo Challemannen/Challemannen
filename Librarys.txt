@@ -1,0 +1,6 @@
+This program uses the librarys
+keyboard
+time
+json
+sys
+os 
